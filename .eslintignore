@@ -1,0 +1,18 @@
+*.sh
+node_modules
+lib
+*.md
+*.woff
+*.ttf
+.vscode
+.idea
+/dist/
+/mock/
+/public
+/docs
+# /build
+.vscode
+.local
+# vite.config.ts
+**/*.html
+
