@@ -8,9 +8,9 @@
 
 2. Vue3 的
 
-3. 图标自动引入
+3. TypeScript
 
-4. TypeScript
+4. 支持图标自动导入
 
 5. Windi CSS
 
@@ -64,7 +64,13 @@ pnpm preview
 
 ## 优缺点
 
-优点：可使用完整的 Composition API
+优点：
+
+1.可使用完整的 Composition API
+
+2.支持pinia，对于不习惯vuex的人来说
+
+3.支持vue3的规范
 
 缺点：vur-router 的使用体验和 2.0 的一样，与3.0的不同。
 
