@@ -6,7 +6,7 @@
 
 1. Vite 的
 
-2. Vue3 的
+2. Vue3 的写法
 
 3. TypeScript
 
